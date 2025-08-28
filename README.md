@@ -20,7 +20,7 @@ It covers multiple scenarios such as loading data, conditional rendering, and mo
 9. **Conditional rendering if a value is empty** – Gracefully handle and display message if a property has no value.  
 10. **Conditional rendering if a value length is zero** – Handle cases where string/array length is `0`.
 
----
+```
 
 ## 🛠️ Technologies Used
 - **HTML5** – Structure  
@@ -28,16 +28,8 @@ It covers multiple scenarios such as loading data, conditional rendering, and mo
 - **JavaScript (ES6)** – Logic & API handling  
 - **GitHub Pages** – Deployment  
 
----
+```
 
-## 📂 Project Structure
-simple_api/
-│-- index.html # Main HTML file
-│-- css/
-│ └── style.css # Custom styles
-│-- scripts/
-│ └── video.js # JavaScript logic
-│-- assets/ # Images, icons, etc.
 
 
 ---
